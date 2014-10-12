@@ -2,6 +2,7 @@ Acesso ao Ensino Superior para Medicina (2000-2013)
 ===================================================
 
 O presente documento apresenta a evolução do acesso ao ensino superior no curso de Medicina, no período entre 2000 e 2013.
+
 São incluídos os dados referentes às vagas, candidatos, colocados por género e classificação do último colocado no âmbito do concurso nacional.
 
 ## Dados
