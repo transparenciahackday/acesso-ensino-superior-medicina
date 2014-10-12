@@ -1,0 +1,59 @@
+{
+  "title": "Acesso Ensino Superior Medicina",
+  "name": "acesso_ensino_superior_medicina",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "PDDL-1.0",
+  "sources": [
+    {
+      "name": "DGES Direção-Geral do Ensino Superior",
+      "web": "http://www.dges.mctes.pt"
+    }
+  ],
+  "resources": [
+    {
+      "name": "dges_acesso_ensino_superior_medicina.csv",
+      "path": "dges_acesso_ensino_superior_medicina.csv",
+      "mediatype": "text/csv",
+      "bytes": 8018,
+      "schema": {
+        "fields": [
+          {
+            "name": "Ano",
+            "type": "integer"
+          },
+          {
+            "name": "InstituiÃ§Ã£o",
+            "type": "string"
+          },
+          {
+            "name": "Vagas",
+            "type": "integer"
+          },
+          {
+            "name": "Candidatos",
+            "type": "integer"
+          },
+          {
+            "name": "Candidatos primeira opcao",
+            "type": "integer"
+          },
+          {
+            "name": "Colocados masculino",
+            "type": "integer"
+          },
+          {
+            "name": "Colocados feminino",
+            "type": "integer"
+          },
+          {
+            "name": "Classificacao ultimo colocado",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "description": "Acesso Ensino Superior para Medicina 2000-2013",
+  "repository": "https://github.com/transparenciahackday/acesso-ensino-superior-medicina.git"
+}
